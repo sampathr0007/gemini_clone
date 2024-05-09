@@ -4,3 +4,5 @@ The UI is developed using React + vitae.
 In the backend the data is fetched by Gemini API and by the helpp of Javascript all the backend is coded.
 
 If you like the web site please use it.
+
+https://sampathgeminiclone.netlify.app/
